@@ -4,9 +4,14 @@ We are "Hope It Works" team.
 Our masterminded crew is working to create something quite unique. <bold> A cheap, but pretty nice synthesizer. </bold>
 ------------
 
-Nastya Mogilevskaya
 Igor Anikeev
+Vasya Gashinskii
+Nastya Mogilevskaya
 Kirill Shchupii
-Alex Goncharov
 and
+Alex Goncharov
+
+are working hard to deliver the best possible product. Cheap.
+------------
+
 
