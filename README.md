@@ -13,6 +13,7 @@ Igor Anikeev - Product Owner / Scrum Master
 
 are working hard to deliver the best possible product. Cheap.
 
+<br><br>
 Arduino, Potentiometers - 4.7K (or 5K) - Linear Taper
 5 - Knobs to fit the Potentiometers.
 1 - 1/4" Mono Phone Jack
