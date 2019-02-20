@@ -15,13 +15,15 @@ are working hard to deliver the best possible product. Cheap.
 
 <br><br>
 Arduino, Potentiometers - 4.7K (or 5K) - Linear Taper
+<br>
 5 - Knobs to fit the Potentiometers.
-1 - 1/4" Mono Phone Jack
-1 - 2.1mm Power Adapter Jack (Fully Shielded)
-1 - 9V DC Power Adapter (Rated at 50mA or more)
-1 - Hammond enclosure - Model 1590BB (1590BBOR for Orange)
-4 - Self adhesive Rubber Feet
-3 Rolls - 22 Gauge Stranded Wire (Red, Green, Blue)
+
+<br>1 - 1/4" Mono Phone Jack
+<br>1 - 2.1mm Power Adapter Jack (Fully Shielded)
+<br>1 - 9V DC Power Adapter (Rated at 50mA or more)
+<br>1 - Hammond enclosure - Model 1590BB (1590BBOR for Orange)
+<br>4 - Self adhesive Rubber Feet
+<br>3 Rolls - 22 Gauge Stranded Wire (Red, Green, Blue)
 
 [Presentation](https://docs.google.com/presentation/d/1kHb_8BXphJeGPWmax6M727-WSOvRjadlKPq61OKHJUc/edit#slide=id.g5047a05bf6_0_127)
 <br>
