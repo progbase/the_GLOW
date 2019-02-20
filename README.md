@@ -23,15 +23,16 @@ Arduino, Potentiometers - 4.7K (or 5K) - Linear Taper
 4 - Self adhesive Rubber Feet
 3 Rolls - 22 Gauge Stranded Wire (Red, Green, Blue)
 
-Presentation link:
-https://docs.google.com/presentation/d/1kHb_8BXphJeGPWmax6M727-WSOvRjadlKPq61OKHJUc/edit#slide=id.g5047a05bf6_0_127
+[Presentation]
 
-GitHub project link: 
-https://github.com/progbase/the_GLOW
-
-GitHub team:
-https://github.com/orgs/progbase/teams/hope-it-works
-
-Parts: 
-https://docs.google.com/spreadsheets/d/1jNQiq77Nzx4zPFUOd68HCWyUr4zVenABvgDfO-k8Yi8/edit?usp=sharing
+(https://docs.google.com/presentation/d/1kHb_8BXphJeGPWmax6M727-WSOvRjadlKPq61OKHJUc/edit#slide=id.g5047a05bf6_0_127)
+<br>
+[GitHub project]
+(https://github.com/progbase/the_GLOW)
+<br>
+[GitHub team]
+(https://github.com/orgs/progbase/teams/hope-it-works)
+<br>
+[Parts]
+(https://docs.google.com/spreadsheets/d/1jNQiq77Nzx4zPFUOd68HCWyUr4zVenABvgDfO-k8Yi8/edit?usp=sharing)
 
