@@ -17,7 +17,6 @@ are working hard to deliver the best possible product. Cheap.
 Arduino, Potentiometers - 4.7K (or 5K) - Linear Taper
 <br>
 5 - Knobs to fit the Potentiometers.
-
 <br>1 - 1/4" Mono Phone Jack
 <br>1 - 2.1mm Power Adapter Jack (Fully Shielded)
 <br>1 - 9V DC Power Adapter (Rated at 50mA or more)
