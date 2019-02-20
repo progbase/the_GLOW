@@ -4,10 +4,10 @@ We are "Hope It Works" team.
 Our masterminded crew is working to create something quite unique. <bold> A cheap, but pretty nice synthesizer. </bold>
 ------------
 
-Igor Anikeev - Product Owner
-Vasya Gashinskii - Team Lead
-Nastya Mogilevskaya - Scrum Master
-Kirill Shchupii - QA Lead
+Igor Anikeev - Product Owner / Scrum Master
+Vasya Gashinskii -  QA Lead
+Nastya Mogilevskaya - Team Lead / Lead Designer
+Kirill Shchupii - Tester
 and
 Alex Goncharov - Developer
 
@@ -32,5 +32,5 @@ GitHub team:
 https://github.com/orgs/progbase/teams/hope-it-works
 
 Parts: 
-https://docs.google.com/spreadsheets/d/1VmyWjqN-B7vcLQJUImWGYXFP5Yrwy1HlqWOFuuqDg6Q/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1jNQiq77Nzx4zPFUOd68HCWyUr4zVenABvgDfO-k8Yi8/edit?usp=sharing
 
