@@ -5,11 +5,11 @@ Our masterminded crew is working to create something quite unique. A cheap, but 
 ------------
 
 Igor Anikeev - Product Owner / Scrum Master
-Vasya Gashinskii -  QA Lead
-Nastya Mogilevskaya - Team Lead / Lead Designer
-Kirill Shchupii - Tester
-&
-Alex Goncharov - Developer
+<br>Vasya Gashinskii -  QA Lead
+<br>Nastya Mogilevskaya - Team Lead / Lead Designer
+<br>Kirill Shchupii - Tester
+<br>&
+<br>Alex Goncharov - Developer
 
 are working hard to deliver the best possible product. Cheap.
 
