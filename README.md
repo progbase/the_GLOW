@@ -1,14 +1,14 @@
 Meet "the GLOW". The innovative granular synth based on Arduino.
 
 We are "Hope It Works" team. 
-Our masterminded crew is working to create something quite unique. <bold> A cheap, but pretty nice synthesizer. </bold>
+Our masterminded crew is working to create something quite unique. A cheap, but pretty nice synthesizer. 
 ------------
 
 Igor Anikeev - Product Owner / Scrum Master
 Vasya Gashinskii -  QA Lead
 Nastya Mogilevskaya - Team Lead / Lead Designer
 Kirill Shchupii - Tester
-and
+&
 Alex Goncharov - Developer
 
 are working hard to deliver the best possible product. Cheap.
