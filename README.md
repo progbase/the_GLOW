@@ -1,4 +1,4 @@
-<h2>Meet "the GLOW". The innovative granular synth based on Arduino.</h2>
+<h2>Meet "<italic>the GLOW</italic>". The innovative granular synth based on Arduino.</h2>
 
 We are "Hope It Works" team. 
 Our masterminded crew is working to create something quite unique. A cheap, but pretty nice synthesizer. 
