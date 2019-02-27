@@ -32,4 +32,5 @@ Arduino, Potentiometers - 4.7K (or 5K) - Linear Taper
 <br>
 [Parts](https://docs.google.com/spreadsheets/d/1jNQiq77Nzx4zPFUOd68HCWyUr4zVenABvgDfO-k8Yi8/edit?usp=sharing)
 
-[Spring #1 planning](https://docs.google.com/spreadsheets/d/16jM_d94CZMTf-xuXvApjIV4YMO0Tx_ebp1X1z7rJN9M/edit?usp=sharing)
+[Sprint #1 planning](https://docs.google.com/spreadsheets/d/16jM_d94CZMTf-xuXvApjIV4YMO0Tx_ebp1X1z7rJN9M/edit?usp=sharing)
+[Sprint #1 issue table](https://github.com/progbase/the_GLOW/issues)
